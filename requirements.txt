@@ -37,7 +37,7 @@ curve==0.1.0
 cycler==0.10.0
 cymem==2.0.2
 Cython==0.29.14
-dask==2.7.0
+dask==2021.10.0
 datatable==0.9.0
 decorator==4.4.1
 defusedxml==0.6.0
